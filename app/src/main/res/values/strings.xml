@@ -1,0 +1,26 @@
+<resources>
+    <!--  app name-->
+    <string name="app_name">SPEED CALCULATOR</string>
+
+    <!-- hints -->
+    <string name="hint1">Enter distance (meter)</string>
+    <string name="hint2">Enter time (second)</string>
+
+    <!-- button -->
+    <string name="clear">CLEAR</string>
+    <string name="calculate">CALCULATE</string>
+
+    <!-- text view-->
+    <string name="average_speed_km_h">Average Speed (km/h)</string>
+
+    <!-- picture description -->
+    <string name="meter_pic">meter pic</string>
+    <string name="bull_pic">bull pic</string>
+
+    <!-- toast text-->
+    <string name="toast1">Distance and time are required.</string>
+    <string name="toast2">Time must be greater than zero.</string>
+
+    <!-- alert dialog message-->
+    <string name="alert1">Speed is over limit!</string>
+</resources>
